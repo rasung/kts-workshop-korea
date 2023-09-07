@@ -1,4 +1,4 @@
-program deploy_workshop.aleo;
+program deploy_workshop_kts.aleo;
 
 record Token:
     owner as address.private;

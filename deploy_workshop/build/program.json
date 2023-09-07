@@ -1,5 +1,5 @@
 {
-    "program": "deploy_workshop.aleo",
+    "program": "deploy_workshop_kts.aleo",
     "version": "0.0.0",
     "description": "",
     "license": "MIT"

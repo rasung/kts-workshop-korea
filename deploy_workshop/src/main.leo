@@ -1,5 +1,5 @@
 // Replace <project_name> with the name of your project.
-program deploy_workshop.aleo {
+program deploy_workshop_kts.aleo {
     // Define a token struct with an owner and balance
     record Token {
         owner: address,
